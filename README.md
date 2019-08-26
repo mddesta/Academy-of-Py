@@ -2,7 +2,7 @@
 
 ## Background
 
-Analysis of district wide standardized test results to determine trends in student performace. The raw data included every student's math and reading scores, as well as various information on the schools they attend. The following analysis was performed: 
+Analysis of district wide standardized test results to determine trends in student performace. The raw data included every student's math and reading scores, as well as various information on the schools they attend. The following analyses were performed: 
 
 ##### District Summary
 Total Schools
